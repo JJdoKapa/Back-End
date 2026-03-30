@@ -1,0 +1,2 @@
+IMPORTAÇÃO DE BIBLIOTECAS
+Se digitar o comando import e ctrl+espaço conseguimos ver todas as bibliotecas disponíveis para usar no python. Vamos voltar para a página inicial do python.org e vamos no pypi. O py vem de python e o pi e de package index que significa de pacotes extras, que são funcionalidades foras do python que podem ser utilizadas no python. Programadores da comunidade podem publicar pacotes para outras pessoas utilizarem. Por exemplo eu posso fazer um módulo para verificar cpf.
