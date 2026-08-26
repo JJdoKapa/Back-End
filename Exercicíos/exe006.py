@@ -1,2 +1,6 @@
-n = int(input('Digite um número: '))
-print(f'Analisando o valor {n}, seu antecessor é {n - 1} e o sucessor é {n + 1}.')
+numero = int(input("Digite um número inteiro: "))
+antecessor = numero - 1
+sucessor = numero + 1
+print(f"Analisando o valor {numero}:")
+print(f"O seu antecessor é {antecessor}")
+print(f"O seu sucessor é {sucessor}")
